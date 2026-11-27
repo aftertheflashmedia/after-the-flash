@@ -24,19 +24,11 @@ const videos: ReelItem[] = [
   },
   {
     no: 'R-001',
-    cat: 'Real Estate',
-    title: 'Cinematic Real Estate',
+    cat: 'Event',
+    title: 'Sweet 16',
     loc: '',
-    youtubeId: '1_xw16jiioI',
-    duration: '0:30',
-  },
-  {
-    no: 'R-002',
-    cat: 'Real Estate',
-    title: 'Real Estate Edit',
-    loc: '',
-    youtubeId: 'LUIB__JuRd4',
-    duration: '0:20',
+    youtubeId: '4Oc8r9aMzvE',
+    duration: '2:55',
   },
 ]
 
@@ -136,7 +128,7 @@ export default function Reel() {
           <span className="section-index">III — Film</span>
           <h2 className="display">The Film</h2>
           <p className="lede">
-            Real estate in motion. Space, light, and sequence — the property as it feels to walk through.
+            Spaces and moments in motion. Light, sequence, and the feeling of being there.
           </p>
         </div>
 
