@@ -2,7 +2,7 @@
 
 **Photography & Film Team — Alabama & the Southeast**
 
-A high-end photography and videography team website. The design concept is a modern art museum — every photo treated like a work of art on display. Built with Next.js 15, React 19, and TypeScript. Deployed on Vercel.
+A high-end photography and videography team website. The design concept is a modern art museum — every photo treated like a work of art on display. Built with Next.js 16, React 19, and TypeScript. Deployed on Vercel.
 
 ---
 
@@ -10,12 +10,12 @@ A high-end photography and videography team website. The design concept is a mod
 
 | Layer | Tool |
 |---|---|
-| Framework | Next.js 15 (App Router) |
+| Framework | Next.js 16 (App Router) |
 | Language | TypeScript |
 | Styling | Global CSS (custom design system) |
 | Fonts | Bodoni Moda + Archivo via `next/font/google` |
 | Deployment | Vercel |
-| Repo | GitHub (private) |
+| Repo | GitHub (public) |
 
 ---
 
