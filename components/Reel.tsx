@@ -30,6 +30,14 @@ const videos: ReelItem[] = [
     youtubeId: '4Oc8r9aMzvE',
     duration: '2:55',
   },
+  {
+    no: 'R-002',
+    cat: 'Session',
+    title: 'Engagement Shoot',
+    loc: '',
+    youtubeId: 'FiogpfRxGY4',
+    duration: '1:40',
+  },
 ]
 
 function VideoModal({ item, onClose }: { item: ReelItem; onClose: () => void }) {
